@@ -1,0 +1,9 @@
+ext {
+    kotlinVersion = '1.7.10'
+    springBootVersion = '2.7.5'
+    springCloudVersion = '2021.0.3'
+    
+    queryDslVersion = '5.0.0'
+    springfoxVersion = '3.0.0'
+    modelmapperVersion = '3.1.0'
+}
